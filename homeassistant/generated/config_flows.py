@@ -569,6 +569,7 @@ FLOWS = {
         "pi_hole",
         "picnic",
         "picotts",
+        "pilota_casa",
         "ping",
         "pjlink",
         "plaato",

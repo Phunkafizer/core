@@ -1,0 +1,11 @@
+{
+  "domain": "pilota_casa",
+  "name": "Pilota Casa",
+  "codeowners": ["@Phunkafizer"],
+  "config_flow": true,
+  "dependencies": ["radio_frequency"],
+  "documentation": "https://www.home-assistant.io/integrations/pilota_casa",
+  "integration_type": "device",
+  "iot_class": "assumed_state",
+  "quality_scale": "bronze"
+}
